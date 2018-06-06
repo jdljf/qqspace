@@ -1,9 +1,6 @@
 <template>
   <div class="xx-jieshao">
-    <div class="tp"><img src="./xx-jieshao.jpg"></div>
-    <div class="jieshao">
-      <p class="js-biaoti">华南理工大学广州学院</p>	
-    </div>
+    <div class="tp"><img src="./大图2.jpg"></div>
   </div>
 </template>
 
@@ -18,11 +15,9 @@ export default {}
   margin-bottom: 20px
   margin: 0 100px
   .tp
-    display: inline-block
+    width: 1063px
+    height: 350px
     img
-    	height: 350px
-    	width: 700px
-  .jieshao	
-    display: inline-block
-    font-size: 18px
+    	height: 100%
+    	width: 100%
 </style> 

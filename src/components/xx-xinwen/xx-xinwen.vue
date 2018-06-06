@@ -511,11 +511,13 @@ export default {}
   .icon
     margin: 67px 50px 60px 50px
     font-size: 0
+    background: #fbfbfb
     .icons
       display: inline-block
       width: 70px          
       height: 78px
       margin-right: 65px
+      background: #fbfbfb
       .ic-tupian
         width: 70px
         height: 64px
@@ -526,6 +528,7 @@ export default {}
         text-align: center
         line-height: 14px
         height: 14px 
+        background: #fbfbfb
       &:last-child
         margin-right: 0  
         img
